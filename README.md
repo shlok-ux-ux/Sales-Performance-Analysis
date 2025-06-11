@@ -1,4 +1,4 @@
-## Sales-Performance-Analysis
+# Sales-Performance-Analysis
 
 This project uses Power BI to visualize and analyze sales data from an Excel file. It includes insights like total sales, profit, quantity sold, sales trends by region and category, and monthly sales performance using KPI cards, bar charts, and line graphs.
 
@@ -11,7 +11,7 @@ This is a Power BI project designed to analyze and visualize sales performance u
    Microsoft Excel – for data storage
 
 ## Files Included:
-# File Description
+ File Description
    "Sales performances project.pbix" - Power BI report with visuals
    "Sales_Data_Dataset.xlsx" - Sales data used in the report
 
