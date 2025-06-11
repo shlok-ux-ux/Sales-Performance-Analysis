@@ -33,7 +33,9 @@ Filters for Region and Category
 2)Open ".pbix" file in Power BI Desktop
 
 3)If needed, reconnect Excel data source:
+
  Click Transform Data > Edit Queries
+ 
  Update Excel file path
  
 4)Refresh the data
