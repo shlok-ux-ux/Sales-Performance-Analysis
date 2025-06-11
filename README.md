@@ -12,7 +12,9 @@ This is a Power BI project designed to analyze and visualize sales performance u
 
 ## Files Included:
  File Description
+ 
    "Sales performances project.pbix" - Power BI report with visuals
+   
    "Sales_Data_Dataset.xlsx" - Sales data used in the report
 
 ## Dashboard Features:
