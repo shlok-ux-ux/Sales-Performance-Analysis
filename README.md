@@ -8,26 +8,36 @@ This is a Power BI project designed to analyze and visualize sales performance u
 
 ## Tools Used:
    Power BI – for dashboard creation
+   
    Microsoft Excel – for data storage
 
 ## Files Included:
 File Description
+
 "Sales performances project.pbix" - Power BI report with visuals
+
 "Sales_Data_Dataset.xlsx" - Sales data used in the report
 
 ## Dashboard Features:
 Total Sales, Profit, and Quantity cards
+
 Region-wise and Category-wise sales (bar charts)
+
 Monthly Sales Trend (line chart)
+
 Filters for Region and Category
 
 ## How to Use:
 1)Download both files
+
 2)Open ".pbix" file in Power BI Desktop
+
 3)If needed, reconnect Excel data source:
  Click Transform Data > Edit Queries
  Update Excel file path
+ 
 4)Refresh the data
+
 5)Interact with slicers and visuals
     
    
